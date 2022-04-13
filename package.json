@@ -1,0 +1,22 @@
+{
+  "name": "mojprvimodul",
+  "version": "1.0.0",
+  "description": "Ovo je moj prvi modul",
+  "main": "rt2219zadatak1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MilosAndricRT/mojPrviModul.git"
+  },
+  "author": "Milos Andric RT22/19",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MilosAndricRT/mojPrviModul/issues"
+  },
+  "homepage": "https://github.com/MilosAndricRT/mojPrviModul#readme",
+  "dependencies": {
+    "mathjs": "^10.4.3"
+  }
+}

@@ -1,0 +1,5 @@
+const m=require("mathjs")
+console.log("Zdravo svete")
+console.log(m.derivative('x^2 + x', 'x').toString())
+console.log(m.evaluate('sin(45 deg) ^ 2'))
+console.log(m.evaluate('det([-1, 2; 3, 1])'))
